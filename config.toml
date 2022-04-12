@@ -1,6 +1,6 @@
 title = "Anna Stein"
 baseURL = "https://ansost.github.io"
-theme = "github.com/eddiewebb/hugo-resume"
+theme = "https://github.com/eddiewebb/hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
@@ -24,7 +24,10 @@ showPublications = false
 showQr = false
 showSkills = true
 
-[params.google]
+[module]
+[[module.imports]]
+  path = 'github.com/eddiewebb/hugo-resume'
+
 
 [params.google.analytics]
 trackerID = ""
@@ -46,3 +49,4 @@ home = ["HTML", "JSON"]
 
 [taxonomies]
 tag = "tags"
+
