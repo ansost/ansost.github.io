@@ -1,6 +1,6 @@
 title = "Anna Stein"
 baseURL = "https://ansost.github.io"
-theme = "hugo-resume"
+theme = "https://github.com/eddiewebb/hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
