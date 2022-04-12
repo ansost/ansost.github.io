@@ -1,32 +1,38 @@
-name: github pages
+name: Build & deploy live site
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
-  pull_request:
+     - master
+#   schedule:
+#     # Run on the hour
+#     - cron: '0 * * * *'
 
 jobs:
-  deploy:
-    runs-on: ubuntu-20.04
+  build-deploy:
+    runs-on: ubuntu-18.04
     steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: recursive # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+    - uses: actions/checkout@v1                  
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          # extended: true
+    - name: Install Ruby Dev                     
+      run: sudo apt-get install ruby-dev
 
-      - name: Build
-        run: hugo mod get -u && hugo --minify
+    - name: Install AsciiDoctor and Rouge
+      run: sudo gem install asciidoctor rouge
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/master'
-        with:
-          github_token: ${{ secrets.ACTION_DEPLOY_KEY}}
-          publish_dir: ./public
+    - name: Setup Hugo                           
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.85.0'
+
+    - name: Build                                
+      run: hugo
+
+    - name: Deploy                               
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        external_repository: ansost/ansost.github.io
+        publish_branch: master
+        publish_dir: ./public
+
