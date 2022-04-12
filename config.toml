@@ -23,10 +23,6 @@ showPublications = false
 showQr = false
 showSkills = true
 
-[module]
-[[module.imports]]
-  path = "github.com/eddiewebb/hugo-resume"
-
 
 [params.google.analytics]
 trackerID = ""
