@@ -6,9 +6,19 @@
     <description>Recent content on Hugo Profile</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 25 Jun 2022 18:35:46 +0530</lastBuildDate>
     
 	<atom:link href="https://ansost.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Image Gallery</title>
+      <link>https://ansost.github.io/gallery/</link>
+      <pubDate>Sat, 25 Jun 2022 18:35:46 +0530</pubDate>
+      
+      <guid>https://ansost.github.io/gallery/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -3,11 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ansost.github.io/categories/</loc>
+    <loc>https://ansost.github.io/</loc>
+    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://ansost.github.io/</loc>
+    <loc>https://ansost.github.io/gallery/</loc>
+    <lastmod>2022-06-25T18:35:46+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ansost.github.io/categories/</loc>
   </url>
   
   <url>
