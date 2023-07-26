@@ -1,0 +1,22 @@
+- name: Anna Sophia Stein
+  photo: headshot.jpg
+  info: Anna Sophia Stein, MA Linguistics student, The institute for Language and Information, Heinrich Heine University Düsseldorf
+  email: anna.stein@hhu.de
+  github: https://github.com/ansost
+  researchgate: https://www.researchgate.net/profile/Anna-Stein-10
+  #scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  cv: cv/cv.pdf
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 2
+  education1: "(2023) BA Linguistics, Heinrich-Heine University"
+  education2: "(2019) A-levels, Gymnasium am Moltkeplatz"
+  # education3: 
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: (2023) BA Linguistics, HHU
+  education2short: (2019) A-levels, Gymnasium am Moltkeplatz
+  # education3short: 
+  # education4short: 
+  # education5short: 
+  # education6short: 
