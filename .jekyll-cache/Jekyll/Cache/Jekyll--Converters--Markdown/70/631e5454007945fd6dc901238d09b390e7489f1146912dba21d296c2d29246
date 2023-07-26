@@ -1,4 +1,4 @@
-I" <style>
+I"‹<style>
 .jumbotron{
     padding:3%;
     padding-bottom:10px;
@@ -46,7 +46,7 @@ pre{
 
 
 
-<a href="http://localhost:4000/papers/jeongetal-sigmorphon-2023.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
+<a href="/papers/jeongetal-sigmorphon-2023.pdf" target="_blank"><button class="btn btn-success btm-sm">PDF</button></a>
 
 
 
