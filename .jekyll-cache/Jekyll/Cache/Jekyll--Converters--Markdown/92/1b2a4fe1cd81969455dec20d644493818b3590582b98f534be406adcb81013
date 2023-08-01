@@ -1,14 +1,14 @@
-I"ò
+I"‰
 <h2 id="team">Team</h2>
 
-<p><strong>We are  looking for new team members</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+<p><strong>We are  looking for new team members</strong> <a href="/vacancies">(see openings)</a> <strong>!</strong></p>
 
 <h2 id="pi">PI</h2>
 
 <div class="jumbotron">
   <div class="row">
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/headshot.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="/images/headshot.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-9 col-xs-12">
       <h4>Anna Sophia Stein</h4>
@@ -30,7 +30,7 @@
   <div class="row">
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="/images/rock.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>Accent unplugged: Evaluating Voice Assistants (TA)</h4>
@@ -43,7 +43,7 @@
     <!-- </div> -->
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="/images/rock.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>This could be you !</h4>
@@ -63,7 +63,7 @@
   <div class="row">
 
     <div class="col-sm-2">
-      <p><img src="http://localhost:4000/images/rock.jpg" width="100%" style="max-width:250px" /></p>
+      <p><img src="/images/rock.jpg" width="100%" style="max-width:250px" /></p>
     </div>
     <div class="col-sm-4 col-xs-12">
       <h4>Example Alumni Name</h4>
