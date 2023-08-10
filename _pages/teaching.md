@@ -4,42 +4,82 @@ layout: gridlay
 sitemap: false
 permalink: /teaching/
 ---
-
 ## Teaching
-
+<div class="jumbotron">
 #### Accent unplugged: Evaluating Voice Assistants - Winter 2023
-- Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
+> Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
   
->**Course Description:** Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+</div>
 
+<div class="jumbotron">
 #### Synthesizing speech - Summer 2023
-- Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
-- Class material: [Nvidia Kit instructions](https://docs.slam.phil.hhu.de/#/nvidia_setup)
+> Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
   
-> **Course Description:** Have you ever wondered why the voice from Google Maps sounds so robotic? In this course, you will take a look inside the black box of language technology and learn how text-to-speech systems work. Using mini-portable computers, NVIDIA® Jetson Nano Developer Kit, you will build your own text-to-speech system that can synthesize written text into spoken language.
+Have you ever wondered why the voice from Google Maps sounds so robotic? In this course, you will take a look inside the black box of language technology and learn how text-to-speech systems work. Using mini-portable computers, NVIDIA® Jetson Nano Developer Kit, you will build your own text-to-speech system that can synthesize written text into spoken language.
 
+<!-- warning, success, danger-->
+<table width="100%" border="0">
+  <tr>
+    <td width="15%" halign="left">
+    <b>Class Material:</b> 
+    </td>
+    <td width="85%" valign="top" halign="left">
+    <a href="https://docs.slam.phil.hhu.de/#/nvidia_setup" class="btn btn-success btm-sm">Nvidia Kit instructions</a>
+    &nbsp;
+    <a href="https://docs.slam.phil.hhu.de/#/wsl" class="btn btn-danger btm-sm">WSL2 Guide</a>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="jumbotron">
 #### Language technology for Linguists with Internet of Things - Winter 2022
-- Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
-- Class material: [Nvidia Kit instructions](https://docs.slam.phil.hhu.de/#/nvidia_setup), [debugging guide](https://docs.slam.phil.hhu.de/#/how_to_debug_101)
-  
-> **Course description:** Have you ever wondered why Voice Assistants (Siri, Amazon Echo and Google Assistant) could not quite understand your English accent? We, as linguists, can play an important role as evaluators of such complex systems. Through this beginner-friendly course, you will open up the black box of language technology by building them with mini-portable computers. In the process, you will acquire new digital skills that complement your linguistic training. Specifically, you will be given the unique opportunity to apply your English and linguistic knowledge for building everyday language technology applications such as evaluating the voice assistant's ability to perceive and produce different English accents, prosody patterns, styles, and emotions. You will be primarily working with mini-portable computers, [NVIDIA® Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). With the NVIDIA Kits, you will build an interactive machine that can speak (Speech Synthesis - convert written text into spoken speech) and can listen (Speech Recognition - transcribe spoken speech into written text). Furthermore, you will evaluate automated systems using linguistic analysis and provide you an opportunity to come up with novel linguistically-motivated evaluation methods.
+> Teaching Assistant for [Akhilesh Kakolu Ramarao](https://akkikek.xyz/about.html)
 
-#### Quantitative methods for linguistic data - Summer 2022
-- Teaching Assistant for [Dr. Kevin Tang](https://www.kevintang.org)
-  
-> **Course description:** Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+Have you ever wondered why Voice Assistants (Siri, Amazon Echo and Google Assistant) could not quite understand your English accent? We, as linguists, can play an important role as evaluators of such complex systems. Through this beginner-friendly course, you will open up the black box of language technology by building them with mini-portable computers. In the process, you will acquire new digital skills that complement your linguistic training. Specifically, you will be given the unique opportunity to apply your English and linguistic knowledge for building everyday language technology applications such as evaluating the voice assistant's ability to perceive and produce different English accents, prosody patterns, styles, and emotions. You will be primarily working with mini-portable computers, [NVIDIA® Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit). With the NVIDIA Kits, you will build an interactive machine that can speak (Speech Synthesis - convert written text into spoken speech) and can listen (Speech Recognition - transcribe spoken speech into written text). Furthermore, you will evaluate automated systems using linguistic analysis and provide you an opportunity to come up with novel linguistically-motivated evaluation methods.
 
-#### Programming for Linguists - Summer 2022
-- Teaching Assistant for [Dr. Kevin Tang](https://www.kevintang.org)
-  
-> **Course description:** Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+<table width="100%" border="0">
+  <tr>
+    <td width="15%" halign="left">
+    <b>Class Material:</b> 
+    </td>
+    <td width="85%" valign="top" halign="left">
+    <a href="https://docs.slam.phil.hhu.de/#/nvidia_setup" class="btn btn-success btm-sm">Nvidia Kit instructions</a>
+    &nbsp;
+    <a href="https://docs.slam.phil.hhu.de/#/wsl" class="btn btn-danger btm-sm">WSL2 Guide</a>
+    &nbsp;
+    <a href="https://docs.slam.phil.hhu.de/#/how_to_debug_101" class="btn btn-warning btm-sm">Debugging for Python beginners</a>
+    </td>
+  </tr>
+</table>
+</div>
 
+<div class="jumbotron">
+#### Quantitative Methods for Linguistic Data: An Introduction to Statistics using R - Winter 2022
+> Teaching Assistant for [Dr. Kevin Tang](https://www.kevintang.org)
+  
+It is as necessary to be numerate as it is to be literate, but students in the field of humanities are often not as numerate as they are literate. They will need to evaluate evidence that are based on probability-based models or statistical results in many of the courses that they take in university, as they consider the efficacy of vaccination and the severity of the pandemic, as they begin to vote in local and national elections, as they search for employment on the job market after graduating, and so on. With an increasingly digital world filled with big data, a command of statistical reasoning is more important than ever. In this course, we will learn numeracy through linguistics, specifically through phonetics and phonology by learning to analyse the sounds of languages quantitatively.<br>How do we analyse the sounds of languages quantitatively? This course, Analysing the sounds of languages, covers the basics of quantitative methods using real data taken from the field of phonetics and phonology. We will provide a gentle introduction to the statistical program R (www.r-project.org) -- a program that is used by data scientists in the tech. industry and academic researchers. The course will consist of a combination of lectures, and plenty of hands-on exercises. We introduce research questions, such as “Do Southerners in the US really talk more slowly?” or “Why do we expect scholarly words to be longer than familiar words?” as a framework for introducing the numerical concepts required to answer research questions such as these. In this course, statistical methods are introduced with a research question and a solid understanding of the data, which is why we use real data and questions that are relevant to anyone who commands a spoken language. A good amount of space is also devoted to illustrating how to formulate and answer a research question, and hypothesis development and testing.
+</div>
+
+<div class="jumbotron">
+#### Computational Modelling - Winter 2022
+> Teaching Assistant for [Dr. Kevin Tang](https://www.kevintang.org)
+  
+Natural Language Processing plays a big role in our digital lives. We will demystify some of these everyday tasks that involve natural language processing: such as spelling and grammar correction, document classification, dialogue systems, machine translation, and forensic linguistics. On the practical side, we will focus on applying off-the-shelf tools that are often used in computational modelling of language data. Armed with these skills, you will be able to model language data quantitatively and ask measurable research questions.<br>By the end of the course, you will learn how to perform i) pre-processing of text files (cleaning up raw text files), ii) automatic linguistic annotation, such as Part of Speech tagging (automatically adding labels such as Noun, Adjective to each word), Name Entity Recognition (identifying proper names, time, date, places, events) and Sentiment (fear, anger, happy, surprise…) iii) the basics of classifying documents, authors and sentiment. <br>Students will get insight into how these systems work (and why it is still so difficult to do natural language processing well). We also consider social and ethical considerations such as privacy, job creation and loss due to language technologies, and the nature of consciousness and machine intelligence.
+</div>
+
+<div class="jumbotron">
 #### Introduction to Linguistics - Summer 2021
-- Tutor (lecture series)
+> Tutor (lecture series)
   
-> **Course description:** Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+The seminar provides an overview of the most important subfields of linguistics and thus an impression of typical linguistic issues. It covers the areas of phonetics, phonology, morphology, syntax, semantics, pragmatics, psycho- and neurolinguistics, computational linguistics, sociolinguistics, typology and historical linguistics, each briefly in one session. The tutorial serves two purposes: first, it uses simple exercises to practice linguistic thinking and writing; second, it reviews (and thereby relates to the linguistic approach) the grammar school knowledge necessary for linguists. There are weekly homework assignments, which are discussed before and after the exercises.
+</div>
 
+<div class="jumbotron">
 #### Introduction to Pragmatics - Winter 2020
-- Tutor for [Dr. Todd Snider](https://tsnider.github.io/snider)
+> Tutor for [Dr. Todd Snider](https://tsnider.github.io/snider)
   
-> **Course description:** Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.
+This course offers a basic introduction to pragmatics. We will be concerned with aspects of meaning that go beyond truth-conditional content and are related to how language is used in context, including conversational implicatures (inferences that arise through reasoning about the speaker’s adherence to conversational maxims like ”Be as informative as you can”) and presuppositions (notions that a speaker or an utterance present as taken for granted). Phenomena like these will lead us to consider the view that meaning in conversation is a product of the lexical meaning of words, the syntax/semantics of the linguistic constructions employed, and how these interact with the context of use and speakers'/hearers' assumptions.<br>
+The course is geared towards students who want to acquire core concepts in pragmatics needed to pursue their studies in linguistics and related disciplines (such as psychology, information science, computational linguistics, philosophy, literature, etc.).
+</div>

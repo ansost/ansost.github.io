@@ -1,0 +1,3 @@
+- name: accent_unplugged
+  description: >
+    Have you ever been curious about why Voice Assistants (Siri, Amazon Echo and Google Assistant) sometimes struggle to understand your English accent? As linguists, we can play a crucial role in evaluating these sophisticated systems. In this class, you will assess the performance of Automatic Speech Recognition systems (ASR) by evaluating them against your own recorded speech and other existing speech recordings. You will learn how to use recording equipment in a laboratory setting as well as how to cut and prepare audio for further processing.

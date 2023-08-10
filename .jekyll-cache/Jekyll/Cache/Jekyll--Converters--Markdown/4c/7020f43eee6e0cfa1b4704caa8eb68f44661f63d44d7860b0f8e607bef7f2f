@@ -1,0 +1,76 @@
+I"	<h2 id="about">About</h2>
+
+<div class="jumbotron">
+  <div class="row">
+    <div class="col-sm-4">
+      <p><img src="/images/headshot.jpg" width="100%" style="max-width:250px" /></p>
+    </div>
+    <div class="col-sm-8 col-xs-12">
+      <h3>Anna Sophia Stein</h3>
+      <h4><i>Anna Sophia Stein, MA Linguistics student, The institute for Language and Information, Heinrich Heine University Düsseldorf</i></h4>
+      <p><a href="mailto:anna.stein@hhu.de" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a></p>
+
+      <p><a href="https://github.com/ansost" target="_blank"><i class="fa fa-github-square fa-3x"></i></a> 
+   <a href="https://www.researchgate.net/profile/Anna-Stein-10" target="_blank"><i class="ai ai-researchgate-square ai-3x"></i></a></p>
+
+      <ul style="overflow: hidden">
+  
+  
+  <li> (2023) BA Linguistics, Heinrich&#8211;Heine University </li>
+  <li> (2019) A&#8211;levels, Gymnasium am Moltkeplatz </li>
+  
+  
+  
+  
+  
+  </ul>
+    </div>
+  </div>
+</div>
+
+<div class="jumbotron">
+  <h3 id="grants">Grants</h3>
+  <ul>
+
+ <li> Example Grant Here </li>
+
+ <li> Example Grant Here </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h3 id="awards">Awards</h3>
+  <ul>
+
+ <li> Example award here (2021) </li>
+
+ <li> Example award here (2020) </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h3 id="students-and-mentoring">Students and mentoring</h3>
+  <ul>
+
+ <li> Accent unplugged: Evaluating Voice Assistants (TA), Univesity Here (Ph.D., 2022) </li>
+
+ <li> Student Here, Univesity Here (Ph.D., 2021) </li>
+
+ <li> Student Here, Univesity Here (Ph.D., 2020) </li>
+
+ <li> Student Here, Univesity Here (M.S., 2020) </li>
+
+ <li> Student Here, Univesity Here (B.S., 2020) </li>
+
+</ul>
+</div>
+
+<div class="jumbotron">
+  <h4>Sponsors</h4>
+  <div style="display:block; text-align:center; margin-left:auto; margin-right:auto;">
+    <p><a href="https://www.nsf.gov/" target="_blank"><img src="/images/NSF.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.energy.gov/" target="_blank"><img src="/images/doe_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.onr.navy.mil/" target="_blank"><img src="/images/onr_logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a><a href="https://www.nih.gov/" target="_blank"><img src="/images/NIH-logo.png" style="max-height: 80px; max-width: 200px; margin: 1%" /></a></p>
+  </div>
+</div>
+:ET
